@@ -9,7 +9,7 @@ SilverNine님의 JWT 인프런 강의 영상의 코드 입니다.
 Intellij   
 OepnJDK11   
 Spring Boot 2.4.5  
-Gradle
+Gradle   
 Jar
 - - -
 dependencies:
