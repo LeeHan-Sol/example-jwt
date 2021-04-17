@@ -11,8 +11,7 @@ SilverNine님의 JWT 인프런 강의 영상의 코드 입니다.
 - Spring Boot 2.4.5  
 - Gradle   
 - Jar
-- - -
-Dependencies:
+### Dependencies:
 - Spring Boot DevTools
 - Lombok
 - Spring Web
