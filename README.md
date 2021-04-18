@@ -19,3 +19,5 @@ SilverNine님의 JWT 인프런 강의 영상의 코드 입니다.
 - Spring Security
 - Spring Data Jpa
 - H2 Database
+- Validation
+- jjwt
